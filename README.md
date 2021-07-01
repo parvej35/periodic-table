@@ -9,6 +9,5 @@ This stylish periodic table of chemical elements is developed using <b>HTML</b> 
 # License
 This is completly free to use.
 
-
 # Thank you
 Any suggestion, feedback, query??? Please write to me <b>parvej35@gmail.com</b>
